@@ -11,12 +11,11 @@ The project combines theoretical robotics concepts with practical implementation
 
 ## 🎥 Project Demo
 
-<video width="800" controls>
-  <source src="ProjectDemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> ⚠️ Make sure `ProjectDemo.mp4` is uploaded in the root of this repository.
+<p align="center">
+  <a href="ProjectDemo.gif">
+    <img src="ProjectDemo.gif" width="800"/>
+  </a>
+</p>
 
 ---
 
