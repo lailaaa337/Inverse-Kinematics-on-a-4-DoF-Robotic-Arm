@@ -1,1 +1,1 @@
-# Inverse-Kinematics-on-a-3-DoF-Robotic-Arm
+# Inverse-Kinematics-on-a-4-DoF-Robotic-Arm
