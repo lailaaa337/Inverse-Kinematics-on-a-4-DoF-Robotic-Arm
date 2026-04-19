@@ -136,7 +136,7 @@ The system was implemented and tested using:
 
 ---
 
-## 🎥 Project Demo
+##  Project Demo
 
 <p align="center">
   <img src="./ProjectDemo.gif" width="700"/>
