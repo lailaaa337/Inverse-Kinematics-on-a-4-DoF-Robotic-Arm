@@ -136,12 +136,9 @@ The system was implemented and tested using:
 
 ---
 
+```markdown
 ##  Project Demo
-
-```md
 ![Robot Simulation](ProjectDemo.gif)
-```
-
 
 ---
 
