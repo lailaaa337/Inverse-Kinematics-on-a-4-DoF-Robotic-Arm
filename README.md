@@ -136,10 +136,11 @@ The system was implemented and tested using:
 
 ---
 
-```markdown
-##  Project Demo
-![Robot Simulation](ProjectDemo.gif)
+## 🎥 Project Demo
 
+<p align="center">
+  <img src="./ProjectDemo.gif" width="700"/>
+</p>
 ---
 
 ##  How It Works
